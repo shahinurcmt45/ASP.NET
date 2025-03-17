@@ -21,3 +21,8 @@ namespace CRUDWITHEF.Models
         public Nullable<int> SALARY { get; set; }
     }
 }
+
+
+
+Asp .Net MVC Full CRUD Operation Using Entity Framework DB First | CRUD Operations in MVC
+https://www.youtube.com/watch?v=OLBmtRFFwcQ
